@@ -27,6 +27,3 @@ Pamukkale Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Makine öğren
 | [kitapci_proje](https://github.com/beratuchan/kitapci_proje) | Online kitabevi uygulaması — kullanıcı & admin rolleri | Flutter, Dart |
 | [sokoban_puzzle](https://github.com/beratuchan/sokoban_puzzle) | Bileşen tabanlı mimariyle geliştirilmiş C++ bulmaca oyunu | C++ |
 
-## İletişim
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:talhaberat20@gmail.com)
